@@ -1,0 +1,9 @@
+# The program only captures  packets that meets the requirements
+# the default behavior is NOT to capture a packet
+# The commands accept a value of 'any' for capturing any packet in that filter
+
+capture_ip = 192.168.175.128
+# capture_mac = any
+# capture_tcp_port = any
+# capture_udp_port = 67, 68, 53
+# capture_icmp_type = any
